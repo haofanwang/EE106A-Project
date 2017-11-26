@@ -1,3 +1,2 @@
-# EE106A_Sokuban_Baxter
-UC Berkeley Fall 2017 EECS106A Introdunction to Robotics Finial Project
-@author Haofan Wang, Jingjun Liu, Jiarong Li, Neal Sanghvi
+# EE106A-Project
+422d4bd7beb429398360b3528b7a8b4d41508803
