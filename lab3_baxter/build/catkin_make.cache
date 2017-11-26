@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/cc/ee106a/fa17/class/ee106a-act/ros_workspaces/lab3/lab3_baxter/devel -DCMAKE_INSTALL_PREFIX=/home/cc/ee106a/fa17/class/ee106a-act/ros_workspaces/lab3/lab3_baxter/install -G Unix Makefiles

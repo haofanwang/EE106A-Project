@@ -1,0 +1,8 @@
+prefix=/home/cc/ee106a/fa17/class/ee106a-act/ros_workspaces/lab3/devel
+
+Name: My_chatter
+Description: Description of My_chatter
+Version: 0.0.0
+Cflags: -I/home/cc/ee106a/fa17/class/ee106a-act/ros_workspaces/lab3/devel/include
+Libs: -L/home/cc/ee106a/fa17/class/ee106a-act/ros_workspaces/lab3/devel/lib 
+Requires: rospy std_msgs message_runtime
