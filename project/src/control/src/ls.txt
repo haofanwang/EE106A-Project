@@ -1,3 +1,0 @@
-ls.txt
-[0m[01;32msub.py[0m
-[01;32msub.py~[0m
