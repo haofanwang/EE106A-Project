@@ -1,0 +1,8 @@
+prefix=/home/cc/ee106a/fa17/class/ee106a-act/ros_workspaces/lab5/devel
+
+Name: ik
+Description: Description of ik
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/cc/ee106a/fa17/class/ee106a-act/ros_workspaces/lab5/devel/lib 
+Requires: 
