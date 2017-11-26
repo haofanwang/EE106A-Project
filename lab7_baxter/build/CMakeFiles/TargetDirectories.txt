@@ -1,8 +1,0 @@
-/home/cc/ee106a/fa17/class/ee106a-act/ros_workspaces/lab7_baxter/build/planning_baxter/CMakeFiles/_catkin_empty_exported_target.dir
-/home/cc/ee106a/fa17/class/ee106a-act/ros_workspaces/lab7_baxter/build/CMakeFiles/clean_test_results.dir
-/home/cc/ee106a/fa17/class/ee106a-act/ros_workspaces/lab7_baxter/build/CMakeFiles/download_extra_data.dir
-/home/cc/ee106a/fa17/class/ee106a-act/ros_workspaces/lab7_baxter/build/CMakeFiles/doxygen.dir
-/home/cc/ee106a/fa17/class/ee106a-act/ros_workspaces/lab7_baxter/build/gtest/CMakeFiles/gtest.dir
-/home/cc/ee106a/fa17/class/ee106a-act/ros_workspaces/lab7_baxter/build/gtest/CMakeFiles/gtest_main.dir
-/home/cc/ee106a/fa17/class/ee106a-act/ros_workspaces/lab7_baxter/build/CMakeFiles/run_tests.dir
-/home/cc/ee106a/fa17/class/ee106a-act/ros_workspaces/lab7_baxter/build/CMakeFiles/tests.dir

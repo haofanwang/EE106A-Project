@@ -1,8 +1,0 @@
-prefix=/home/cc/ee106a/fa17/class/ee106a-act/ros_workspaces/lab7_baxter/devel
-
-Name: planning_baxter
-Description: Description of planning_baxter
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/cc/ee106a/fa17/class/ee106a-act/ros_workspaces/lab7_baxter/devel/lib 
-Requires: 

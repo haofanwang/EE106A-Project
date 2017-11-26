@@ -1,8 +1,0 @@
-prefix=/home/cc/ee106a/fa17/class/ee106a-act/ros_workspaces/lab5_baxter/install
-
-Name: mv
-Description: Description of mv
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/cc/ee106a/fa17/class/ee106a-act/ros_workspaces/lab5_baxter/install/lib 
-Requires: 
