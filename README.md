@@ -1,2 +1,15 @@
 # EE106A-Project
-422d4bd7beb429398360b3528b7a8b4d41508803
+Baxter plays with Sodoban
+
+This is a robot project written in Python with ROS , under collaboration of the following members:
+```
+Haofan Wang (haofanwang@berkeley.edu)
+Jiarong Li (jiarongli@berkeley.edu)
+Jingjun Liu (liujingjun@berkeley.edu)
+Neal Sanghvi (neal.sanghvi@berkeley.edu)
+
+```
+
+Note: The robot uses Baxter-frame hardware provided by EE106A course staff at UC Berkeley. The code and video of this project will be released at the end of this semester.
+
+Play fun!Go Bear!
